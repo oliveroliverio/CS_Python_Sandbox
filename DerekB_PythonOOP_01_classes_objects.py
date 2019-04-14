@@ -28,7 +28,11 @@ class Dog:
 
 # define main() method, where all the execution occurs
 def main():
+    spot = Dog("Spot", 66, 26)
+    spot.bark()
 
+    bowser = Dog("Bowser", 800, 234)
+    bowser.run()
 
 # execute main function here
 main()

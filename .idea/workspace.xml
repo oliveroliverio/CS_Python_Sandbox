@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DerekB_PythonOOP_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DerekB_PythonOOP_01.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sendex_Python_SQLite_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sendex_Python_SQLite_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial.db" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DerekB_PythonOOP_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DerekB_PythonOOP_01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <caret line="19" column="18" lean-forward="true" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -77,6 +85,7 @@
         <option value="$PROJECT_DIR$/Sendex_Python_SQLite_02.py" />
         <option value="$PROJECT_DIR$/Sendex_Python_SQLite_03.py" />
         <option value="$PROJECT_DIR$/DerekB_PythonOOP_01.py" />
+        <option value="$PROJECT_DIR$/DerekB_PythonOOP_01.2.py" />
       </list>
     </option>
   </component>
@@ -128,7 +137,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.DerekB_PythonOOP_01_classes_objects">
+    <configuration name="DerekB_PythonOOP_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_General" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DerekB_PythonOOP_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DerekB_PythonOOP_01_classes_objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_General" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DerekB_PythonOOP_01_classes_objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Sendex_Python_SQLite" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_General" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,8 +204,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sendex_Python_SQLite_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_General" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sendex_Python_SQLite_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DerekB_PythonOOP_01_classes_objects" />
+        <item itemvalue="Python.Sendex_Python_SQLite_02" />
+        <item itemvalue="Python.DerekB_PythonOOP_01" />
         <item itemvalue="Python.Sendex_Python_SQLite" />
       </list>
     </recent_temporary>
@@ -168,7 +246,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555203791983</updated>
       <workItem from="1555203807810" duration="4803000" />
-      <workItem from="1555210629329" duration="1772000" />
+      <workItem from="1555210629329" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -209,7 +287,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6575000" />
+    <option name="totallyTimeSpent" value="7069000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,6 +338,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="committed on macbook" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_General$DerekB_PythonOOP_01.coverage" NAME="DerekB_PythonOOP_01 Coverage Results" MODIFIED="1555223433081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_General$DerekB_PythonOOP_01_classes_objects.coverage" NAME="DerekB_PythonOOP_01_classes_objects Coverage Results" MODIFIED="1555223641078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_General$Sendex_Python_SQLite_02.coverage" NAME="Sendex_Python_SQLite_02 Coverage Results" MODIFIED="1555223624567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_General$Sendex_Python_SQLite.coverage" NAME="Sendex_Python_SQLite Coverage Results" MODIFIED="1555211576514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -287,7 +368,14 @@
     <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <caret line="19" column="18" lean-forward="true" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
         </state>
       </provider>
     </entry>
