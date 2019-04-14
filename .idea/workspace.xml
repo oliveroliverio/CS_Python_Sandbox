@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DerekB_PythonTk_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_General.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_General.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +11,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
+        <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
@@ -25,7 +20,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite_02.py">
+        <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite_02.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
@@ -34,7 +29,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01_classes_objects.py">
+        <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonOOP_01_classes_objects.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
@@ -42,8 +37,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.2_getters_setters.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonOOP_01.2_getters_setters.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
@@ -51,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DerekB_PythonTk_01.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonTk_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+            <state relative-caret-position="436">
+              <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -64,7 +59,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite_03.py">
+        <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite_03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -125,6 +120,16 @@
               <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="DerekB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Sendex" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,6 +144,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/DerekB" />
+      <recent name="$PROJECT_DIR$/Sendex" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,7 +296,7 @@
       <updated>1555203791983</updated>
       <workItem from="1555203807810" duration="4803000" />
       <workItem from="1555210629329" duration="4570000" />
-      <workItem from="1555256225212" duration="680000" />
+      <workItem from="1555256225212" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -326,7 +337,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10053000" />
+    <option name="totallyTimeSpent" value="10285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,48 +397,60 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.2.py" />
     <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.py" />
-    <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
+    <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite_02.py">
+    <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite_03.py">
+    <entry file="file://$PROJECT_DIR$/Sendex/Sendex_Python_SQLite_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DerekB_PythonTk_01.py">
+    <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonOOP_01.2_getters_setters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01_classes_objects.py">
+    <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonOOP_01_classes_objects.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DerekB_PythonOOP_01.2_getters_setters.py">
+    <entry file="file://$PROJECT_DIR$/DerekB/save.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DerekB/open.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DerekB/exit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DerekB/disk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DerekB/DerekB_PythonTk_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="436">
+          <caret line="49" column="40" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
