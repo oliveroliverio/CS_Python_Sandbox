@@ -1,32 +1,65 @@
-# assigning getters and setters to avoid
+# assigning getters and setters to avoid setting bad field values
+# and to provide improved output
 
-# create dog object from template or class
-class Dog:
+class Square:
 
-    def __init__(self, name="", height=0, weight=0):
-        # "my" (or "self") name is <whatever they passed into the first param above
-        self.name = name
-        # same thing for height, weight, etc
+    def __init__(self, height="0", width="0"):
         self.height = height
-        self.weight = weight
+        self.width = width
 
-    # now define default capabilities
-    def run(self):
-        print("{} the dog runs".format(self.name))
+    # creating getter
+    # @property allows you to refer to fields above (width/height)
+    @property
+    def height(self):
+        # improving the output
+        print("Retrieving the height")
 
-    def eat(self):
-        print("{} the dog eats".format(self.name))
+        # the 2 underscores means it's a private field
+        return self.__height
 
-    def bark(self):
-        print("{} the dog barks".format(self.name))
+    # creating setter for height
+    @height.setter
+    def height(self, value):
+        # make sure value passed in is a digit
+        if value.isdigit():
+            self.__height = value
+        else:
+            print("Please only enter numbers for height")
 
-# define main() method, where all the execution occurs
+    # do the same for width
+    @property
+    def width(self):
+        # improving the output
+        print("Retrieving the width")
+
+        # the 2 underscores means it's a private field
+        return self.__width
+
+    @width.setter
+    def width(self, value):
+        # make sure value passed in is a digit
+        if value.isdigit():
+            self.__width = value
+        else:
+            print("Please only enter numbers for width")
+
+    def getArea(self):
+        # convert strings to ints
+        return int(self.__width) * int(self.__height)
+
 def main():
-    spot = Dog("Spot", 66, 26)
-    spot.bark()
+    aSquare = Square()
 
-    bowser = Dog("Bowser", 800, 234)
-    bowser.run()
+    # use getters and setters by asking user input
+    height = input("Enter Height : ")
+    width = input("Enter Width : ")
 
-# execute main function here
+    aSquare.height = height
+    aSquare.width = width
+
+    print("Height :", aSquare.height)
+    print("Width :", aSquare.width)
+
+    print("The area is :", aSquare.getArea())
+
 main()
