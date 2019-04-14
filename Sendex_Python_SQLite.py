@@ -11,7 +11,7 @@ def createTable():
     # cursor does all the executions of things
     # create table called 'stuff2plot'
     # in parens is the columns and the type (unix, type real)
-    c.execute('CREATE TABLE IF NOT EXISTS stuff2plot(unix REAL, datestamp TEXT, keyword TEXT, value REAL')
+    c.execute('CREATE TABLE IF NOT EXISTS stuff2plot(unix REAL, datestamp TEXT, keyword TEXT, value REAL)')
 
 # setup functions for inputting data
 def dataEntry():
@@ -24,3 +24,5 @@ def dataEntry():
 
 createTable()
 dataEntry()
+
+# see the data created
