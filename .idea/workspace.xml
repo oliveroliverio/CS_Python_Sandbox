@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="">
+    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="commit with new file and done through pycharm">
       <change beforePath="$PROJECT_DIR$/Sendex_Python_SQLite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sendex_Python_SQLite.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+            <state relative-caret-position="318">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555203791983</updated>
-      <workItem from="1555203807810" duration="2653000" />
+      <workItem from="1555203807810" duration="2962000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -167,7 +167,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2653000" />
+    <option name="totallyTimeSpent" value="2962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,13 +187,13 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.4979625" visible="true" weight="0.34083602" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.4979625" weight="0.34083602" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.4995958" weight="0.32919255" />
       <window_info anchor="bottom" id="Terminal" weight="0.32919255" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50203747" side_tool="true" visible="true" weight="0.34083602" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5004075" side_tool="true" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995925" visible="true" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,8 +222,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="20" column="76" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+        <state relative-caret-position="318">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>

@@ -26,3 +26,6 @@ createTable()
 dataEntry()
 
 # see the data created
+# google and dload "sqlite browser"
+# go to git bash, locate the 'tutorial.db' file and open with 'sqlite browser'
+
