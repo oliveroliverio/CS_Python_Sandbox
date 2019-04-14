@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="commit with new file and done through pycharm">
       <change beforePath="$PROJECT_DIR$/Sendex_Python_SQLite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sendex_Python_SQLite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial.db" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="138">
+              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -133,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555203791983</updated>
-      <workItem from="1555203807810" duration="2962000" />
+      <workItem from="1555203807810" duration="3393000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -167,7 +168,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2962000" />
+    <option name="totallyTimeSpent" value="3393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -217,13 +218,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit with new file and done through pycharm" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_General$Sendex_Python_SQLite.coverage" NAME="Sendex_Python_SQLite Coverage Results" MODIFIED="1555206872358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_General$Sendex_Python_SQLite.coverage" NAME="Sendex_Python_SQLite Coverage Results" MODIFIED="1555207436071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Sendex_Python_SQLite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="138">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>

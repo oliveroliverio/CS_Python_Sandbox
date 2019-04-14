@@ -15,7 +15,7 @@ def createTable():
 
 # setup functions for inputting data
 def dataEntry():
-    c.execute("INSERT INTO stuff2plot VALUES(12342134, '2019-04-11', 'Python', 5 )")
+    c.execute("INSERT INTO stuff2plot VALUES(31442134, '2019-04-12', 'Java', 3 )")
     # save the entry.  run 'conn.commit()' any time you edit and make changes
     conn.commit()
     # when completely done run the stuff below.  essential for saving memory
@@ -28,4 +28,6 @@ dataEntry()
 # see the data created
 # google and dload "sqlite browser"
 # go to git bash, locate the 'tutorial.db' file and open with 'sqlite browser'
+
+# change the values in 'def dataEntry' and run this again, then look at the update data file
 
