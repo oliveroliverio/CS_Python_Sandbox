@@ -8,6 +8,10 @@ import pandas as pd
 import pandas_datareader.data as web
 import time
 import os
+
+from pandas.plotting import register_matplotlib_converters
+register_matplotlib_converters()
+
 style.use('ggplot')
 
 #--------timed explanation functions--------------------

@@ -41,14 +41,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sendex/PyFi_03_dataManip_SMA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sendex/PyFi_04_candleSticks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding>
                 <element signature="e#74#95#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/cbook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -65,6 +83,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>style</find>
+      <find>Dates</find>
+      <find>mdates</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,6 +110,7 @@
         <option value="$PROJECT_DIR$/Sendex/PyFi_01_getStockPriceData.py" />
         <option value="$PROJECT_DIR$/Sendex/PyFi_02_dataHandlingGraphing.py" />
         <option value="$PROJECT_DIR$/Sendex/PyFi_03_dataManip_SMA.py" />
+        <option value="$PROJECT_DIR$/Sendex/PyFi_04_candleSticks.py" />
       </list>
     </option>
   </component>
@@ -157,29 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PyFi_03_dataManip_SMA">
-    <configuration name="DerekB_PythonOOP_01.2_getters_setters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_General" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DerekB/DerekB_PythonOOP_01.2_getters_setters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PyFi_04_candleSticks">
     <configuration name="DerekB_PythonTk_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_General" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,13 +267,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PyFi_04_candleSticks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_General" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sendex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sendex/PyFi_04_candleSticks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PyFi_04_candleSticks" />
         <item itemvalue="Python.PyFi_03_dataManip_SMA" />
         <item itemvalue="Python.PyFi_02_dataHandlingGraphing" />
         <item itemvalue="Python.PyFi_01_getStockPriceData" />
         <item itemvalue="Python.DerekB_PythonTk_01" />
-        <item itemvalue="Python.DerekB_PythonOOP_01.2_getters_setters" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +311,7 @@
       <updated>1555203791983</updated>
       <workItem from="1555203807810" duration="4803000" />
       <workItem from="1555210629329" duration="4570000" />
-      <workItem from="1555256225212" duration="8008000" />
+      <workItem from="1555256225212" duration="11189000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -331,7 +352,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17381000" />
+    <option name="totallyTimeSpent" value="20562000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,15 +364,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.258596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.493553" visible="true" weight="0.32950193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.493553" visible="true" weight="0.32950193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,8 +385,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" x="1114" y="620" width="918" height="714" id="SciView" order="3" type="FLOATING" visible="true" weight="0.3295129" />
-      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" x="261" y="112" width="918" height="698" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.3295129" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3295129" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
     </layout>
@@ -393,10 +413,11 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Sandbox$PyFi_04_candleSticks.coverage" NAME="PyFi_04_candleSticks Coverage Results" MODIFIED="1555275564710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sendex" />
     <SUITE FILE_PATH="coverage/Python_Sandbox$PyFi_02_dataHandlingGraphing.coverage" NAME="PyFi_02_dataHandlingGraphing Coverage Results" MODIFIED="1555268624329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sendex" />
     <SUITE FILE_PATH="coverage/Python_General$DerekB_PythonOOP_01.coverage" NAME="DerekB_PythonOOP_01 Coverage Results" MODIFIED="1555223433081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_General$DerekB_PythonOOP_01_classes_objects.coverage" NAME="DerekB_PythonOOP_01_classes_objects Coverage Results" MODIFIED="1555223641078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Sandbox$PyFi_03_dataManip_SMA.coverage" NAME="PyFi_03_dataManip_SMA Coverage Results" MODIFIED="1555271558456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sendex" />
+    <SUITE FILE_PATH="coverage/Python_Sandbox$PyFi_03_dataManip_SMA.coverage" NAME="PyFi_03_dataManip_SMA Coverage Results" MODIFIED="1555274228244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sendex" />
     <SUITE FILE_PATH="coverage/Python_General$DerekB_PythonOOP_01_2_getters_setters.coverage" NAME="DerekB_PythonOOP_01.2_getters_setters Coverage Results" MODIFIED="1555225596512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Sandbox$PyFi_01_getStockPriceData.coverage" NAME="PyFi_01_getStockPriceData Coverage Results" MODIFIED="1555263782523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sendex" />
     <SUITE FILE_PATH="coverage/Python_General$Sendex_Python_SQLite_02.coverage" NAME="Sendex_Python_SQLite_02 Coverage Results" MODIFIED="1555223624567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -486,10 +507,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/matplotlib/cbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sendex/PyFi_03_dataManip_SMA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sendex/PyFi_04_candleSticks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding>
             <element signature="e#74#95#0" expanded="true" />
           </folding>
