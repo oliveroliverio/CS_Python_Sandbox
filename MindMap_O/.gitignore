@@ -1,0 +1,4 @@
+*.pyc
+sheetList.txt
+/Sheets
+!/Sheets/help.json
