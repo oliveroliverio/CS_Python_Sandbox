@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/PowerSearching.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/PowerSearching.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sendex/PyFi_06_gettAllCompanyPricingDataFromPreviousList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="427">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -167,7 +165,13 @@
             <path>
               <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Sandbox" type="462c0819:PsiDirectoryNode" />
-              <item name="Sendex" type="462c0819:PsiDirectoryNode" />
+              <item name="OliverO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="OliverO" type="462c0819:PsiDirectoryNode" />
+              <item name="PowerSearching" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Sandbox" type="b2602c69:ProjectViewProjectNode" />
@@ -344,7 +348,7 @@
       <workItem from="1555203807810" duration="4803000" />
       <workItem from="1555210629329" duration="4570000" />
       <workItem from="1555256225212" duration="16693000" />
-      <workItem from="1555307971835" duration="521000" />
+      <workItem from="1555307971835" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="commit with new file">
       <created>1555204550780</created>
@@ -385,7 +389,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26587000" />
+    <option name="totallyTimeSpent" value="26786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +404,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26217765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26217765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -540,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sendex/PyFi_06_gettAllCompanyPricingDataFromPreviousList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="427">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
