@@ -32,13 +32,31 @@ def getDataFromYahoo(reload_sp500=False):
 
 # want to store all data locally into CSV files since it takes awhile to reping them.
     if not os.path.exists('stock_dfs'):
-        os.mkdirs('stock_dfs')
+        os.makedirs('stock_dfs')
 
-    start = dt.datetime(2018,1,1,)
+    start = dt.datetime(2018,1,1)
     end = dt.datetime.now()
 
+    # to get only 25 companies use the below
+    # for ticker in tickers[:25]:
     for ticker in tickers:
-        if not os.path.('stock_dfs/{}.csv'.format(ticker)):
+        print(ticker)
+        if not os.path.exists('stock_dfs/{}.csv'.format(ticker)):
             df = web.DataReader(ticker, 'yahoo', start, end)
+            df.to_csv('stock_dfs/{}.csv'.format(ticker))
+        else:
+            print('Already have {}'.format(ticker))
+
+getDataFromYahoo()
+
+
+# this doesn't work.  I don't know why
+
+
+
+
+
+
+
 
 
