@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="" />
+    <list default="true" id="98c82748-3f87-4736-ad85-21b9efb8c87d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/PowerSearching.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/PowerSearching.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OliverO/PowerSearching/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
