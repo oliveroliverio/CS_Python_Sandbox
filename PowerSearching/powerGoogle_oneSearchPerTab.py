@@ -44,3 +44,10 @@ for i in searchList:
         webbrowser.get(chrome_path).open('http://google.com' + linkElems[i].get('href'))
 
     #usage:  python powerGoogle.py <searchTerm>
+
+
+## ----------------Creating a class for distributing amongst multiple monitors
+
+class Distribute2Monitors:
+
+    def init
