@@ -12,7 +12,7 @@ import requests, sys, webbrowser, bs4, os
 # Goal: open each of these search terms in a new tab
 
 # open file into variable
-textFile = open('text files/ListOfSearchTerms_small')
+textFile = open('test.txt')
 
 # put words in text file into list called 'searchList'
 searchList = textFile.read().split('\n')
@@ -47,7 +47,7 @@ for i in searchList:
 
 
 ## ----------------Creating a class for distributing amongst multiple monitors
-
-class Distribute2Monitors:
-
-    def init
+#
+# class Distribute2Monitors:
+#
+#     def init

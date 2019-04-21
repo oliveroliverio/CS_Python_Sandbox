@@ -1,0 +1,18 @@
+pattern Bull flag
+pattern bear flag (bearish)
+pattern flat top breakout
+pattern 1234 pattern
+pattern micro 1 minute pullback (bearish)
+pattern red to green move
+pattern open range breakout
+pattern cup and handle
+pattern ascending triangle
+pattern triple bottom
+pattern descending triangle (bearish)
+pattern inverse head and shoulders
+pattern bullish symmetric triangle
+pattern round bottom
+pattern double top (bearish)
+pattern bearish symetric triangle (bearish)
+pattern falling wedge
+pattern head and shoulders (bearish)
